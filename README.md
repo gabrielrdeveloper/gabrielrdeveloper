@@ -8,7 +8,7 @@ I'm a computer science student and developer passionate about technology and try
 Here are some ideas to get you started:
 -->
 
-[![LinkedIn](https://custom-icon-badges.demolab.com/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoSource=feather&logoColor=white)](https://www.linkedin.com/in/seu-perfil/)
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoSource=feather&logoColor=white)]([https://www.linkedin.com/in/seu-perfil/](https://www.linkedin.com/in/gabriel-ribeiro-noronha-97059b154/))
 
 - 🔭 I’m currently working on Apple Developer Academy At UCB
 - 🌱 I’m currently learning App development in Swift
