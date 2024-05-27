@@ -32,9 +32,9 @@ Here are some ideas to get you started:
       </a>
     </td>
     <td align="center">
-      <a href="https://apps.apple.com/app/id0987654321">
-        <img src="https://link-para-o-icone-do-seu-app2.png" width="100px;" alt="App2"/><br />
-        <sub><b>App Name 2</b></sub>
+      <a href="https://apps.apple.com/br/app/doarmais/id6470676984">
+        <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/75/7d/52/757d5259-b6e5-9e23-ebe4-4abd26fb118c/AppIcon-0-0-1x_U007emarketing-0-7-0-sRGB-85-220.png/246x0w.webp" width="100px;" alt="App2"/><br />
+        <sub><b>DoarMais</b></sub>
       </a>
     </td>
   </tr>
