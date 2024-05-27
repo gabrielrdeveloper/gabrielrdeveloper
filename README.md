@@ -23,7 +23,6 @@ Here are some ideas to get you started:
 <img align="left" alt="PostgreSQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/>
 <br>
 <br>
-
 #
 
 ### 📲 My Apps on AppStore
@@ -45,8 +44,7 @@ Here are some ideas to get you started:
   </tr>
   <!-- Adicione mais aplicativos conforme necessário -->
 </table>
-<br>
-<br>
+
 
 ## About Me
 
