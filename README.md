@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 <table>
   <tr>
     <td align="center">
-      <a href="[https://apps.apple.com/app/id1234567890](https://apps.apple.com/br/app/knight-tower-rush/id6451394734)">
+      <a href="https://apps.apple.com/br/app/knight-tower-rush/id6451394734">
         <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/60/7c/a8/607ca872-1b0e-02c0-0a46-a09152c8094b/AppIcon-1x_U007ephone-0-85-220.jpeg/246x0w.webp" width="100px;" alt="App1"/><br />
         <sub><b>Knight Tower Rush</b></sub>
       </a>
