@@ -2,7 +2,7 @@
 
 **`Digital Craftsman (Developer)`**
 
-I'm a computer science student and developer passionate about technology and trying to build my vision and contribution to the real world throung apps and softwares. I create my projects based in the programming languages, technologies, and frameworks i'm currently studying, using tutorials, resources and personal knowledge.
+I’m a computer science student and developer with a passion for technology and a drive to build impactful applications and software. My journey involves creating innovative projects that leverage the latest programming languages, technologies, and frameworks. I continuously learn and evolve by exploring tutorials, resources, and my personal experiences.
 <!--
 **bielr98/bielr98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
@@ -17,6 +17,11 @@ Here are some ideas to get you started:
 <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
 <img align="left" alt="BootsTrap" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg"/>
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+<img align="left" alt="C" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
+<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
+<img align="left" alt="MySQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
+<img align="left" alt="PostgreSQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/>
+<br>
 <br>
 
 #
@@ -41,8 +46,8 @@ Here are some ideas to get you started:
   <!-- Adicione mais aplicativos conforme necessário -->
 </table>
 
-- 🔭 I’m currently working on Apple Developer Academy
-- 🌱 I’m currently learning App development in Swift
+- 🔭 Currently working at Apple Developer Academy at UCB, where I’m involved in cutting-edge app development.
+- 🌱 Actively learning Swift and enhancing my skills in app development.
 - 
 ![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=bielr98&show_icons=true&theme=radical)
 
