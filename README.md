@@ -45,9 +45,16 @@ Here are some ideas to get you started:
   </tr>
   <!-- Adicione mais aplicativos conforme necessário -->
 </table>
+<br>
+<br>
 
-- 🔭 Currently working at Apple Developer Academy at UCB, where I'm involved in cutting-edge app development with Swift for all Apple devices, primarily focusing on iPhone. Here, I also learn about design principles, UI, and UX to enhance my skills as a developer.
-- 🌱 In college, I'm currently learning Python and its libraries, Numpy and Pandas. Additionally, I'm studying prototyping in the Web Development course.
+## About Me
+
+I'm currently studying at the Universidade Católica de Brasília, where I'm deepening my knowledge in computer science. My academic journey is complemented by my hands-on experience at the Apple Developer Academy, where I develop apps using Swift and learn about essential design principles, UI, and UX.
+
+In my spare time, I love exploring new technologies, participating in hackathons, and contributing to open-source projects. I'm always eager to collaborate on exciting projects and learn from other developers.
+
+Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/gabriel-ribeiro-noronha-97059b154/) or check out my work on the App Store!
   
 <br>
 
