@@ -23,6 +23,24 @@ Here are some ideas to get you started:
 
 ### 📲 My Apps on AppStore
 
+<table>
+  <tr>
+    <td align="center">
+      <a href="[https://apps.apple.com/app/id1234567890](https://apps.apple.com/br/app/knight-tower-rush/id6451394734)">
+        <img src="https://link-para-o-icone-do-seu-app1.png" width="100px;" alt="App1"/><br />
+        <sub><b>Knight Tower Rush</b></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://apps.apple.com/app/id0987654321">
+        <img src="https://link-para-o-icone-do-seu-app2.png" width="100px;" alt="App2"/><br />
+        <sub><b>App Name 2</b></sub>
+      </a>
+    </td>
+  </tr>
+  <!-- Adicione mais aplicativos conforme necessário -->
+</table>
+
 - 🔭 I’m currently working on Apple Developer Academy
 - 🌱 I’m currently learning App development in Swift
 - 
