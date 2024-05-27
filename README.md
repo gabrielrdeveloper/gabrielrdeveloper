@@ -1,12 +1,21 @@
-## Hi there 👋 
+## Hello World 👋 , I'm Gabriel Ribeiro Noronha!
 
 **`Digital Craftsman (Developer)`**
+
+I'm a computer science student and developer passionate about technology and trying to build my vision and contribution to the real world throung apps and softwares. I create my projects based in the programming languages, technologies, and frameworks i'm currently studying, using tutorials, resources and personal knowledge.
 <!--
 **bielr98/bielr98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
+-->
+<p aling="left">
+  <a href="https://www.linkedin.com/in/gabriel-ribeiro-noronha-97059b154/">
+            <img title="Follow me on LinkedIn" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" />
+          
+<!--       <img alt="LinkedIn" title="Follow me on LinkedIn" src="https://custom-icon-badges.demolab.com/github/followers/ForrestKnight?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/> </a> -->
+      </a>
+      
+</p>
+- 🔭 I’m currently working on ...    
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -14,4 +23,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
