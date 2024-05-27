@@ -9,8 +9,7 @@ Here are some ideas to get you started:
 -->
 <p aling="left">
   <a href="https://www.linkedin.com/in/gabriel-ribeiro-noronha-97059b154/">
-            <img title="Follow me on LinkedIn" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" />
-          
+            <img alt="LinkedIn" title="Follow me on LinkedIn" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" />   
 <!--       <img alt="LinkedIn" title="Follow me on LinkedIn" src="https://custom-icon-badges.demolab.com/github/followers/ForrestKnight?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/> </a> -->
       </a>
       
