@@ -46,9 +46,11 @@ Here are some ideas to get you started:
   <!-- Adicione mais aplicativos conforme necessário -->
 </table>
 
-- 🔭 Currently working at Apple Developer Academy at UCB, where I’m involved in cutting-edge app development.
-- 🌱 Actively learning Swift and enhancing my skills in app development.
-- 
+- 🔭 Currently working at Apple Developer Academy at UCB, where I'm involved in cutting-edge app development with Swift for all Apple devices, primarily focusing on iPhone. Here, I also learn about design principles, UI, and UX to enhance my skills as a developer.
+- 🌱 In college, I'm currently learning Python and its libraries, Numpy and Pandas. Additionally, I'm studying prototyping in the Web Development course.
+  
+<br>
+
 ![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=bielr98&show_icons=true&theme=radical)
 
 
