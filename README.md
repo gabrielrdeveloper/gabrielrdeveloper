@@ -8,15 +8,13 @@ I'm a computer science student and developer passionate about technology and try
 Here are some ideas to get you started:
 -->
 
-[youtube]: https://custom-icon-badges.demolab.com/badge/youtube-red.svg?logo=youtube&logoSource=feather
-<!-- <p aling="left">
+<p aling="left">
   
   <a href="https://www.linkedin.com/in/gabriel-ribeiro-noronha-97059b154/">
-            <img alt="LinkedIn" title="Follow me on LinkedIn" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" />  </a> 
+            <img alt="LinkedIn" title="Follow me on LinkedIn" src="[https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg](https://custom-icon-badges.demolab.com/badge/-Use%20GitHub%20Action-blue?style=for-the-badge&logo=workflow&logoColor=white)" />  </a> 
 
   https://img.shields.io/badge/just%20the%20message-8A2BE2
 </p>
-->>
 
 - 🔭 I’m currently working on Apple Developer Academy At UCB
 - 🌱 I’m currently learning App development in Swift
