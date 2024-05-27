@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 ### 📲 My Apps on AppStore
 
-- 🔭 I’m currently working on Apple Developer Academy At UCB
+- 🔭 I’m currently working on Apple Developer Academy
 - 🌱 I’m currently learning App development in Swift
 - 
 ![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=bielr98&show_icons=true&theme=radical)
