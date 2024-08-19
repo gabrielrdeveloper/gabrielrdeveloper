@@ -1,6 +1,6 @@
 ## Hello World 👋 , I'm Gabriel Ribeiro Noronha!
 
-**`Digital Craftsman (Developer)`**
+**`iOS | Swift Developer`**
 
 I’m a computer science student and developer with a passion for technology and a drive to build impactful applications and software. My journey involves creating innovative projects that leverage the latest programming languages, technologies, and frameworks. I continuously learn and evolve by exploring tutorials, resources, and my personal experiences.
 <!--
