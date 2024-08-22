@@ -7,7 +7,7 @@ I’m a computer science student and developer with a passion for technology and
 **bielr98/bielr98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
 -->
-[![LinkedIn](https://custom-icon-badges.demolab.com/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoSource=feather&logoColor=white)](https://www.linkedin.com/in/gabriel-ribeiro-noronha-97059b154/)
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoSource=feather&logoColor=white)](https://www.linkedin.com/in/gabriel-ribeiro-noronha/)
 
 ### 🧰 Languages and Tools
 <img align="left" alt="Swift" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swift/swift-original.svg" />
