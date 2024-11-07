@@ -55,7 +55,7 @@ Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/gabriel-r
   
 <br>
 
-![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=bielr98&show_icons=true&theme=radical)
+![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielrdeveloper&show_icons=true&theme=radical)
 
 
 
