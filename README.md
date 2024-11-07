@@ -1,6 +1,6 @@
 ## Hello World 👋 , I'm Gabriel Ribeiro Noronha!
 
-**`iOS Developer`**
+**`iOS Developer`** <br>
 **`Swift | SwiftUI | UIKit | ViewCode `**
 
 
