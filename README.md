@@ -45,7 +45,7 @@ Here are some ideas to get you started:
         <td align="center">
       <a href="https://apps.apple.com/br/app/peregrinus/id6717613991?l=en-GB">
         <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/dd/c8/0e/ddc80e2c-8242-7710-1ef8-d13027ada284/AppIcon-0-1x_U007ephone-0-1-85-220-0.png/246x0w.webp" width="100px;" alt="App1"/><br />
-        <sub><b>Peregrinus - Seu companheiro </b></sub>
+        <sub><b>Peregrinus</b></sub>
       </a>
     </td>
         <td align="center">
