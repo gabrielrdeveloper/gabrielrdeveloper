@@ -42,6 +42,18 @@ Here are some ideas to get you started:
         <sub><b>DoarMais</b></sub>
       </a>
     </td>
+        <td align="center">
+      <a href="https://apps.apple.com/br/app/peregrinus/id6717613991?l=en-GB">
+        <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/dd/c8/0e/ddc80e2c-8242-7710-1ef8-d13027ada284/AppIcon-0-1x_U007ephone-0-1-85-220-0.png/246x0w.webp" width="100px;" alt="App1"/><br />
+        <sub><b>Knight Tower Rush</b></sub>
+      </a>
+    </td>
+        <td align="center">
+      <a href="https://apps.apple.com/br/app/papaia/id6483535998?l=en-GB">
+        <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/73/45/6e/73456e70-a17a-5a8a-0d87-5671d59013a8/AppIcon-0-0-1x_U007ephone-0-0-85-220.png/246x0w.webp" width="100px;" alt="App1"/><br />
+        <sub><b>Knight Tower Rush</b></sub>
+      </a>
+    </td>
   </tr>
   <!-- Adicione mais aplicativos conforme necessário -->
 </table>
