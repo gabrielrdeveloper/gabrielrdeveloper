@@ -48,6 +48,13 @@ Here are some ideas to get you started:
         <sub><b>Peregrinus</b></sub>
       </a>
     </td>
+      </td>
+        <td align="center">
+      <a href="https://apps.apple.com/br/app/aya/id6641116919?itscg=30200&itsct=apps_box_link&mttnsubad=6641116919">
+        <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e8/8d/24/e88d241d-e656-79c8-0e39-c1ad3bf08450/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/270x270bb.webp" width="100px;" alt="App1"/><br />
+        <sub><b>AYA</b></sub>
+      </a>
+    </td>
         <td align="center">
       <a href="https://apps.apple.com/br/app/papaia/id6483535998?l=en-GB">
         <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/73/45/6e/73456e70-a17a-5a8a-0d87-5671d59013a8/AppIcon-0-0-1x_U007ephone-0-0-85-220.png/246x0w.webp" width="100px;" alt="App1"/><br />
