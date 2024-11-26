@@ -1,6 +1,6 @@
 ## Hello World 👋 , I'm Gabriel Ribeiro Noronha!
 
-**`iOS Developer`** <br>
+**`iOS Developer |  Digital Craftsman `** <br>
 **`Swift | SwiftUI | UIKit | ViewCode `**
 
 
@@ -68,11 +68,11 @@ Here are some ideas to get you started:
 
 ## About Me
 
-I'm currently studying at the Universidade Católica de Brasília, where I'm deepening my knowledge in computer science. My academic journey is complemented by my hands-on experience at the Apple Developer Academy, where I develop apps using Swift and learn about essential design principles, UI, and UX.
+Hi, I’m Gabriel, an iOS Developer and Digital Craftsman who loves turning ideas into high-quality, user-friendly apps. I work with Swift and frameworks like SwiftUI, UIKit, Firebase, Combine, CoreData, CloudKit, and ARKit to create apps that are both functional and enjoyable. Over the years, I’ve gained experience in full cycle app development, integrating RESTful APIs, and building clean, scalable architectures like Clean Swift, MVVM, and VIPER.
 
-In my spare time, I love exploring new technologies, participating in hackathons, and contributing to open-source projects. I'm always eager to collaborate on exciting projects and learn from other developers.
+I’m passionate about solving challenges—whether it’s optimizing app performance, creating intuitive designs, or finding innovative ways to make life easier for users. I also thrive in collaborative environments, where brainstorming and teamwork lead to the best results. Above all, I believe in continuous learning, staying curious about new technologies, and pushing boundaries to create apps that truly make a difference.
 
-Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/gabriel-ribeiro-noronha-97059b154/) or check out my work on the App Store!
+Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/gabrielribeironoronha/) or check out my work on the App Store!
   
 <br>
 
