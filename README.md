@@ -4,7 +4,9 @@
 **`Swift | SwiftUI | UIKit | ViewCode `**
 
 
-I’m a computer science student and developer with a passion for technology and a drive to build impactful applications and software. My journey involves creating innovative projects that leverage the latest programming languages, technologies, and frameworks. I continuously learn and evolve by exploring tutorials, resources, and my personal experiences.
+Hi, I’m Gabriel, an iOS Developer and Digital Craftsman who loves turning ideas into high-quality, user-friendly apps. I work with Swift and frameworks like SwiftUI, UIKit, Firebase, Combine, CoreData, CloudKit, and ARKit to create apps that are both functional and enjoyable. Over the years, I’ve gained experience in full cycle app development, integrating RESTful APIs, and building clean, scalable architectures like Clean Swift, MVVM, and VIPER.
+
+I’m passionate about solving challenges—whether it’s optimizing app performance, creating intuitive designs, or finding innovative ways to make life easier for users. I also thrive in collaborative environments, where brainstorming and teamwork lead to the best results. Above all, I believe in continuous learning, staying curious about new technologies, and pushing boundaries to create apps that truly make a difference.
 <!--
 **bielr98/bielr98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
@@ -66,15 +68,6 @@ Here are some ideas to get you started:
 </table>
 
 
-## About Me
-
-Hi, I’m Gabriel, an iOS Developer and Digital Craftsman who loves turning ideas into high-quality, user-friendly apps. I work with Swift and frameworks like SwiftUI, UIKit, Firebase, Combine, CoreData, CloudKit, and ARKit to create apps that are both functional and enjoyable. Over the years, I’ve gained experience in full cycle app development, integrating RESTful APIs, and building clean, scalable architectures like Clean Swift, MVVM, and VIPER.
-
-I’m passionate about solving challenges—whether it’s optimizing app performance, creating intuitive designs, or finding innovative ways to make life easier for users. I also thrive in collaborative environments, where brainstorming and teamwork lead to the best results. Above all, I believe in continuous learning, staying curious about new technologies, and pushing boundaries to create apps that truly make a difference.
-
-Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/gabrielribeironoronha/) or check out my work on the App Store!
-  
-<br>
 
 ![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielrdeveloper&show_icons=true&theme=radical)
 
