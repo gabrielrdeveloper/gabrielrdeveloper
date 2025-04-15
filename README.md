@@ -1,20 +1,27 @@
 ## Hello World 👋 , I'm Gabriel Ribeiro Noronha!
 
-**`iOS Developer |  Digital Craftsman `** <br>
-**`Swift | SwiftUI | UIKit | ViewCode `**
+**`Mobile Developer | Digital Craftsman `** <br>
+**`Swift | SwiftUI | UIKit | ViewCode | Dart | Flutter `**
 
 
-Hi, I’m Gabriel, an iOS Developer and Digital Craftsman who loves turning ideas into high-quality, user-friendly apps. I work with Swift and frameworks like SwiftUI, UIKit, Firebase, Combine, CoreData, CloudKit, and ARKit to create apps that are both functional and enjoyable. Over the years, I’ve gained experience in full cycle app development, integrating RESTful APIs, and building clean, scalable architectures like Clean Swift, MVVM, and VIPER.
+Hi, I’m Gabriel, an iOS and Flutter Developer and Digital Craftsman who loves turning ideas into high-quality, user-friendly apps. I have over 2 years of experience in iOS development, working with Swift and frameworks like SwiftUI, UIKit, Firebase, Combine, CoreData, CloudKit, and ARKit.
 
-I’m passionate about solving challenges—whether it’s optimizing app performance, creating intuitive designs, or finding innovative ways to make life easier for users. I also thrive in collaborative environments, where brainstorming and teamwork lead to the best results. Above all, I believe in continuous learning, staying curious about new technologies, and pushing boundaries to create apps that truly make a difference.
+Currently, I’m working with Flutter, using Dart to build cross-platform applications with the same attention to performance, UI/UX, and clean architecture that I’ve always applied in native iOS apps.
+
+Over the years, I’ve gained experience in full-cycle app development, integrating RESTful APIs, and building scalable architectures like Clean Swift, MVVM, and VIPER. I’m passionate about solving challenges—whether it’s optimizing performance, creating intuitive designs, or finding innovative ways to improve user experiences.
+
+I thrive in collaborative environments where brainstorming and teamwork lead to the best results. Above all, I believe in continuous learning, staying curious about new technologies, and pushing boundaries to create apps that truly make a difference.
 <!--
 **bielr98/bielr98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
 -->
-[![LinkedIn](https://custom-icon-badges.demolab.com/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoSource=feather&logoColor=white)](https://www.linkedin.com/in/gabriel-ribeiro-noronha/)
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoSource=feather&logoColor=white)](https://www.linkedin.com/in/gabrielribeironoronha/)
 
 ### 🧰 Languages and Tools
 <img align="left" alt="Swift" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swift/swift-original.svg" />
+<img align="left" alt="Dart" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg" />
+<img align="left" alt="Flutter" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" />
+<img align="left" alt="Firebase" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-plain.svg" />
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
 <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
@@ -27,6 +34,7 @@ Here are some ideas to get you started:
 <img align="left" alt="PostgreSQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/>
 <br>
 <br>
+
 
 ### 📲 My Apps on AppStore
 
